@@ -1,0 +1,4 @@
+org\BuzzToOffice\learningspring\data\Room.class
+org\BuzzToOffice\learningspring\utils\AppStartupEvent.class
+org\BuzzToOffice\learningspring\data\RoomRepository.class
+org\BuzzToOffice\learningspring\LearningSpringApplication.class
